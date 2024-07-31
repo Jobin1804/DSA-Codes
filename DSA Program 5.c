@@ -1,9 +1,9 @@
 /*
-Roll no:24
-Batch:A
+Roll no:66
+Batch:C
 Author Name:Jobin Abraham
 Date:2/09/23
-Description:largest element in an array
+Description:Largest element in an array
 */
 #include<stdio.h> 
 
