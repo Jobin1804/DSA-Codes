@@ -1,9 +1,9 @@
 /*
-Roll no:24
-Batch:A
+Roll no:66
+Batch:C
 Author Name:Jobin Abraham
 Date:2/09/23
-Description:descending order based on percentage
+Description:Descending order based on percentage
 */
 #include <stdio.h>
 #include <string.h>
