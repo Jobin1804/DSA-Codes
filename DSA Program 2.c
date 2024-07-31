@@ -1,6 +1,6 @@
 /*
-Roll no:24
-Batch:A
+Roll no:66
+Batch:C
 Author Name:Jobin Abraham
 Date:2/09/23
 Description:pascal triangle
